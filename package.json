@@ -1,0 +1,18 @@
+{
+  "name": "generator-sc-package",
+  "version": "0.1.0",
+  "description": "Sitecore Package generator for npm module sitecore-package-manager",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "main": "index.js",
+  "author": "Emil Klein <eok@pentia.dk>",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1",
+    "mkdirp": "0.5.1"
+  },
+  "files": [
+    "generators/app"
+  ]
+}

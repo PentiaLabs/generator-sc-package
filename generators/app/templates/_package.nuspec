@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id><%= id %></id>
+    <version><%= version %></version>
+    <authors><%= authors %></authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Full Sitecore Webroot</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>Sitecore Full</tags>
+  </metadata>
+  <files>
+    <file src="<%= destinationRoot %>\Website\**\*" target="webroot" />
+    <file src="<%= destinationRoot %>\data\**\*" target="data" />
+  </files>
+</package>
