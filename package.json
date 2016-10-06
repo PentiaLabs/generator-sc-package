@@ -1,10 +1,24 @@
 {
-  "name": "generator-sc-package",
+  "name": "@pentia/generator-sc-package",
   "version": "0.1.0",
   "description": "Sitecore Package generator for npm module sitecore-package-manager",
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "sitecore",
+    "package",
+    "generator"
   ],
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/PentiaLabs/Package.Installer"
+  },
+  "maintainers": [
+    "Pentia <dev@pentia.dk> (http://www.pentia.dk)"
+  ],
+  "bugs": {
+    "url": "https://github.com/PentiaLabs/Package.Installer/issues"
+  },
+  "homepage": "https://github.com/PentiaLabs/Package.Installer#readme",
   "main": "index.js",
   "author": "Emil Klein <eok@pentia.dk>",
   "license": "ISC",
