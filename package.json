@@ -10,15 +10,15 @@
   ],
     "repository": {
     "type": "git",
-    "url": "https://github.com/PentiaLabs/Package.Installer"
+    "url": "https://github.com/PentiaLabs/generator-sc-package"
   },
   "maintainers": [
     "Pentia <dev@pentia.dk> (http://www.pentia.dk)"
   ],
   "bugs": {
-    "url": "https://github.com/PentiaLabs/Package.Installer/issues"
+    "url": "https://github.com/PentiaLabs/generator-sc-package/issues"
   },
-  "homepage": "https://github.com/PentiaLabs/Package.Installer#readme",
+  "homepage": "https://github.com/PentiaLabs/generator-sc-package#readme",
   "main": "index.js",
   "author": "Emil Klein <eok@pentia.dk>",
   "license": "ISC",
